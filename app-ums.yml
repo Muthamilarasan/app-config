@@ -1,1 +1,14 @@
+security:
+  basic:
+    enabled: false
 
+management:
+  security:
+    enabled: false
+
+logging:
+  level:
+    io:
+      pivotal: INFO
+      
+billingUrl: http://app-billing.apps.cumuluslabs.io
