@@ -11,4 +11,4 @@ logging:
     io:
       pivotal: INFO
       
-billingUrl: http://app-billing.apps.cumuluslabs.io
+appname: app-billing
