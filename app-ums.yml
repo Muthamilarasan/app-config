@@ -11,4 +11,4 @@ logging:
     io:
       pivotal: INFO
       
-appname: app-billing
+appname: app_billing
